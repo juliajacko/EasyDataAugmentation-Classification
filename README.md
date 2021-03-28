@@ -1,2 +1,11 @@
+# EasyDataAugmentation - Classification
 # Využitie technik  augmentácie dát pri spracovaní textových dokumentov metódami hlbokého učenia 
-## Use of data augmentation techniques in text documents processing using deep learning methods
+Júlia Jacková
+
+
+#### Dataset
+Toxic comments - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
+
+#### Embeddings
+GloVe - https://nlp.stanford.edu/projects/glove/
+
