@@ -28,14 +28,19 @@ Experimenty boli vytvorené v  programovacom jazyku Python pomocou Jupyter Noteb
 
 Aby sme zistili aký vplyv budú mať techniky augmentácie EDA na danú doménu, detegovali sme dve rozne formy antisociálneho správania a to toxicitu v komentároch a falošné správy. Z tohto dôvodu má toho uložisko dve hlavné priečinky a to Toxic comments a Fake news. V nasledujúcej časti je postup ako spustiť kódy diplomovej práci. 
 
-Pred samotným spustením kódu je potrebné mať nainštalovaný python a Jupyter Notebook alebo nami využívanú Anacondu, ktorá obsahuje všetky potrebné aplikácie. V každom experimente sme následne využivali knižnice pythonu, ktoré sú vypísane na začiatku každého súboru. Ak nemáte nainštalovanú niektorú z knižnic tak môete využiť príklaz pip install (a názov knižnice). Na koniec je potrebné stiahnuť dáta, ktorých odkazdy sú výššie a taktiež slovníkovú metódu GloVE.
+Pred samotným spustením kódu je potrebné mať nainštalovaný Python (aspoň vo verzií 3.7) a Jupyter Notebook  alebo nami využívanú Anacondu, ktorá obsahuje všetky potrebné aplikácie(https://www.anaconda.com/products/individual#windows). V každom experimente sme následne využivali knižnice pythonu, ktoré sú vypísane na začiatku každého súboru. Ak nemáte nainštalovanú niektorú z knižnic tak môete využiť príklaz pip install (a názov knižnice). Na koniec je potrebné stiahnuť dáta, ktorých odkazdy sú výššie a taktiež slovníkovú metódu GloVE.
 
-##### Toxic comments
+##### A.Toxic comments
 
 Priečinok Toxic comments tvoria dva podpriečinky a to: 
+
 *1. Binnary classification* - tento priečinok obsahuje ešte dve podpriečinky v ktorých je dátová množina raz rozdelená v pomere 80:20 trénovacích a tesotvacích príkladov a v druhom priečinku je dátová množina rozdelená v pomere 70:30.
 
 Pri tomto experimente je doležité stiahnuť dáta *Toxic comments*. Následné dáta odzipovať a použiť len dáta s názvom train.csv. Cestu k súboru je potrebné následne zadať do prvého príkazu v kóde. Taktiež je potrebné zadať správnu cestu k súboru GloVE, ktorý ste stiahli z odkazu vyššie. 
+
+V tomto priečinku sme použili všetky metódy augmentačných techník EDA pomocou, ktorých sme rozšírili trénovaciu dátovu množinu. Avšak pri tomto type dát 
+
+*2. Multilabel classification* -
 
 
 
