@@ -12,6 +12,7 @@ The aim of the diploma thesis is to use data augmentation techniques to detect a
 
 #### Dataset
 Toxic comments - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
+
 Toxic comments multilabels - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 #### Embeddings
