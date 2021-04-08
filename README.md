@@ -50,7 +50,7 @@ Na spustenie týchto kódov je potrebné stiahnuť dáta Fake news a taktiež sl
 
 *1. Data 80:20* - v tomto priečinku ešte rozlišuje či sme vytvorili model konvolúčných neurónových sieti alebo model rekurentných neurónových sietí LSTM. V oboch priečinkoch je potrebné nainportovať požadované knižnice a tiež správne zvoliť cestu k dátam. 
 
-*2 Dáta 70:30* - priečinok obsahuje kód v ktorom sa klasifikuje binárna klasifikácia ale dáta sú rozdelené v pomere 70:30
+*2 Data 70:30* - priečinok obsahuje kód v ktorom sa klasifikuje binárna klasifikácia ale dáta sú rozdelené v pomere 70:30
 
 
 
