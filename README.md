@@ -22,7 +22,7 @@ Fake news - https://drive.google.com/drive/folders/1fWAMCZ8xlIU2O7loumhUtknZft04
 GloVe - https://nlp.stanford.edu/projects/glove/
 
 #### Postup ako spustiť kód
-Tento experiment bol vytvorení s cieľom vyriešiť problém nedostatku dát v trénovacej množine. Keďže získať nové anotácie je veľmi náročné a zdĺhavé na vyriešenie tohto problému sme využili techniky augmentácie EDA, ktoré rýchlo a automaticky vedia rozšíriť trénovaciu množinu. Tieto techniky sme použili pri riešení problému detekcie antisociálneho správania. 
+Tento experiment bol vytvorení s cieľom vyriešiť problém nedostatku dát v trénovacej množine. Keďže získať nové anotácie je veľmi náročné a zdĺhavé na vyriešenie tohto problému sme využili techniky augmentácie EDA, ktoré rýchlo a automaticky vedia rozšíriť trénovaciu množinu. Tieto techniky sme použili pri riešení problému detekcie antisociálneho správania. V diplomovej práci sú popisané dva experimetny a to v súbore Toxic comments - Binarry classification - Data 80:20 a druhý súbor je v Fake news- Data 80:20 - CNN. Ostatné experimetny sú len doplnkové aby sme zistili vplyv augmentačných technik EDA.
 
 Experimenty boli vytvorené v  programovacom jazyku Python pomocou Jupyter Notebook.
 
