@@ -34,7 +34,7 @@ Pred samotným spustením kódu je potrebné mať nainštalovaný Python (aspoň
 
 Priečinok Toxic comments tvoria dva podpriečinky a to: 
 
-*1. Binnary classification* - tento priečinok obsahuje ešte dve podpriečinky, v ktorých je dátová množina raz rozdelená v pomere 80:20 trénovacích a testovacích  príkladov a v druhom priečinku je dátová množina rozdelená v pomere 70:30.
+*1. Binnary classification* - tento priečinok obsahuje ešte dve súbory, v ktorých je dátová množina raz rozdelená v pomere 80:20 trénovacích a testovacích  príkladov a v druhom súbore je dátová množina rozdelená v pomere 70:30.
 
 Pri tomto experimente je dôležité stiahnuť dáta *Toxic comments*. Následné dáta odzipovať a použiť len dáta s názvom train.csv. Cestu k súboru je potrebné následne zadať do prvého príkazu v kóde. Taktiež je potrebné zadať správnu cestu k súboru GloVE, ktorý ste stiahli z odkazu vyššie. 
 
@@ -48,7 +48,7 @@ V tomto priečinku sme použili všetky metódy augmentačných techník EDA pom
 
 Na spustenie týchto kódov je potrebné stiahnuť dáta Fake news a taktiež slovníkovú metódu GloVe. V kódoch sme riešili problém binárnej klasifikácie, konkrétne detekcie falošných správ. V tomto priečinku sú dve podpriečinky podľa toho v akom pomere boli rozdelené dáta na trénovacie a testovacie. Pri takom to type dát sa osvedčili augmentačné techniky EDA na zlepšenie výsledkov klasifikácie. 
 
-*1. Data 80:20* - v tomto priečinku ešte rozlišuje či sme vytvorili model konvolúčných neurónových sieti alebo model rekurentných neurónových sietí LSTM. V oboch priečinkoch je potrebné nainportovať požadované knižnice a tiež správne zvoliť cestu k dátam. 
+*1. Data 80:20* - v tomto priečinku ešte rozlišuje či sme vytvorili model konvolúčných neurónových sieti alebo model rekurentných neurónových sietí LSTM. Pri oboch kódoch je potrebné nainportovať požadované knižnice a tiež správne zvoliť cestu k dátam. 
 
 *2 Data 70:30* - priečinok obsahuje kód v ktorom sa klasifikuje binárna klasifikácia ale dáta sú rozdelené v pomere 70:30
 
