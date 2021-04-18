@@ -19,7 +19,7 @@ Toxic comments multilabels - https://www.kaggle.com/c/jigsaw-toxic-comment-class
 Fake news - https://drive.google.com/drive/folders/1fWAMCZ8xlIU2O7loumhUtknZft04jXps?usp=sharing
 
 #### Embeddings
-GloVe - https://nlp.stanford.edu/projects/glove/
+GloVE - https://nlp.stanford.edu/projects/glove/
 
 #### Postup ako spustiť kód
 Tento experiment bol vytvorený s cieľom vyriešiť problém nedostatku dát v trénovacej množine. Keďže získať nové anotácie je veľmi náročné a zdĺhavé na vyriešenie tohto problému sme využili techniky augmentácie EDA, ktoré rýchlo a automaticky vedia rozšíriť trénovaciu množinu. Tieto techniky sme použili pri riešení problému detekcie antisociálneho správania. V diplomovej práci sú popisané dva experimetny a to v súbore Toxic comments - Binarry classification - Data 80:20 a druhý súbor je v Fake news- Data 80:20 - CNN. Ostatné experimenty sú len doplnkové aby sme zistili vplyv augmentačných technik EDA.
