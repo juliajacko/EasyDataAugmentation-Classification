@@ -38,7 +38,7 @@ Priečinok Toxic comments tvoria dva podpriečinky a to:
 
 Pri tomto experimente je dôležité stiahnuť dáta *Toxic comments*. Následné dáta rozbaliť a použiť len dáta s názvom train.csv. Cestu k súboru je potrebné následne zadať do prvého príkazu v kóde. Taktiež je potrebné zadať správnu cestu k súboru GloVE, ktorý ste stiahli z odkazu vyššie. 
 
-V tomto priečinku sme použili všetky metódy augmentačných techník EDA pomocou, ktorých sme rozšírili trénovaciu dátovú množinu. Avšak pri tomto type dát techniky augmentácie EDA nedosiahli viditeľné zlepšenie pri úlohách klasifikácie. 
+V tomto priečinku sme použili všetky metódy augmentačných techník EDA, pomocou ktorých sme rozšírili trénovaciu dátovú množinu. Avšak pri tomto type dát techniky augmentácie EDA nedosiahli viditeľné zlepšenie pri úlohách klasifikácie. 
 
 *2. Multilabel classification* - ten priečinok obsahuje kód na klasifikáciu toxických komentárov do viacerých tried. Na spustenie tohto kódu je potrebné stiahnuť dáta Toxic comments multilabelst a taktiež slovníkovú metódu GloVe. V tomto kóde sme využili len dve metódy zo sady techník EDA.
 
