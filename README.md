@@ -27,7 +27,7 @@ Experimenty boli vytvorené v  programovacom jazyku Python pomocou Jupyter Noteb
 
 Aby sme zistili aký vplyv budú mať techniky augmentácie EDA na danú doménu, detegovali sme dve rôzne formy antisociálneho správania a to toxicitu v komentároch a falošné správy. Z tohto dôvodu má toto úložisko dve hlavné priečinky a to Toxic comments a Fake news. V nasledujúcej časti je postup ako spustiť kódy diplomovej práci. 
 
-Pred samotným spustením kódu je potrebné mať nainštalovaný Python (aspoň vo verzií 3.7) a Jupyter Notebook  alebo nami využívanú Anacondu, ktorá obsahuje všetky potrebné aplikácie(https://www.anaconda.com). V každom experimente sme následne využívali knižnice pythonu, ktoré sú vypísane na začiatku každého súboru. Ak nemáte nainštalovanú niektorú z knižníc tak môžete využiť príkaz pip install (a názov knižnice). Na koniec je potrebné stiahnuť dáta, ktorých odkazy sú vyššie a taktiež slovníkovú metódu GloVE.
+Pred samotným spustením kódu je potrebné mať nainštalovaný Python (aspoň vo verzií 3.7) a Jupyter Notebook  alebo nami využívanú Anacondu, ktorá obsahuje všetky potrebné aplikácie (https://www.anaconda.com). V každom experimente sme následne využívali knižnice pythonu, ktoré sú vypísane na začiatku každého súboru. Ak nemáte nainštalovanú niektorú z knižníc tak môžete využiť príkaz pip install (a názov knižnice). Na koniec je potrebné stiahnuť dáta, ktorých odkazy sú vyššie a taktiež slovníkovú metódu GloVE.
 
 ##### A.Toxic comments
 
